@@ -1,5 +1,2 @@
 
-<div align="center"> 
-  <p>Visitor Count</p>
-  <img src="https://profile-counter.glitch.me/{th3861}/count.svg" alt="Visitor's Count" />
-</div>
+![](https://komarev.com/ghpvc/?username=th3861&color=blueviolet&style=for-the-badge&abbreviated=true)
